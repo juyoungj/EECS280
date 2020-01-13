@@ -1,0 +1,16 @@
+#minArrivalTime
+10
+#maxArrivalTime
+20
+#meanServingTime
+15.3
+#stdServingTime
+7.3
+#openHours
+600
+#chanceNotToWait
+30
+#excessiveLineLength
+2
+#seedNumber
+600
